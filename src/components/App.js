@@ -3,11 +3,11 @@ import '../styles/App.css';
 
 const App = () => {
   return (
-    <div id="main">
-      < />
-      < />
-      < />
-      < />
+   <div>
+      <Heading />
+      <SubHeading />
+      <InputQuery />
+      <SubmitButton />
     </div>
   )
 }
