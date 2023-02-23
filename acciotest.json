@@ -1,4 +1,4 @@
 {
-    "testRepo": "import-export-testcases",
-    "pathToFile": "__tests__/App.test.js"
+    "testRepo": "import-export-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
 }
